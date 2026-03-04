@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+data/uploads/*
+data/quizzes/*
+!data/uploads/.gitkeep
+!data/quizzes/.gitkeep
